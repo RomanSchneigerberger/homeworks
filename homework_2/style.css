@@ -1,0 +1,30 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.nav {
+    border: 5px #a7204d solid;
+    height: 500px;
+    width: 1000px;
+    background: #f1e20b;
+}
+
+.link {
+    border: #000000 1px solid;
+    height: 50%;
+    background: #15ff00;
+    width: 50%;
+    margin: 0 0 0 100px;
+}
+
+.legend {
+    border: #000000 5px solid;
+    height: 40px;
+    background: #5d3a85;
+    width: 50%;
+    margin: 0 0 0 150px;
+
+}
