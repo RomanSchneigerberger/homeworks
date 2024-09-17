@@ -1,0 +1,35 @@
+html,
+body {
+    margin: 20px;
+    padding: 0px;
+}
+
+.body {
+    background-color: rgb(143, 76, 76);
+}
+
+table {
+    width: 50%;
+    margin: 20px 30px 20px 30px;
+    border-collapse: collapse;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    background-color: rgb(146, 116, 174);
+    border-radius: 30px;
+}
+
+th,
+td {
+    padding: 15px;
+    border: 1px solid rgb(101, 89, 167);
+    text-align: left;
+}
+
+th {
+    background-color: rgb(200, 219, 35);
+}
+
+td:hover {
+    background-color: rgb(35, 153, 51);
+    cursor: pointer, ;
+    border-radius: 50% 20% / 10% 40%;
+}
