@@ -1,0 +1,28 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    width: 400px;
+    height: 400px;
+    flex-direction: column;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    background-color: bisque;
+}
+h1,h2,p{
+    text-align: center;
+}
+#avatar{
+    display: flex;
+    align-self: center;
+    width: 150px;
+}
